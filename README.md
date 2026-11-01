@@ -8,7 +8,7 @@ Senior DevOps and Cloud Platform Engineer based in London, with around 11 years 
  
 #### What I work with
  
-- **Cloud:** AWS, GCP and Azure
+- **Cloud:** AWS, GCP, Azure
 - **IaC:** Terraform, CDK, CloudFormation
 - **CI/CD:** GitHub Actions, GitLab CI/CD, Bitbucket Pipelines, Jenkins
 - **Containers:** Docker, ECS, Kubernetes
